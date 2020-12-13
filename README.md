@@ -39,3 +39,7 @@ Current behavior: a GET to /stats does return total requests, but average time r
 
 Issue #3 (Minor): text returned when a hash is not found needs to be trimmed of spaces- 'hash not found' should be returned but there is a large amount of space padding on either side of the string
 
+I think that's about it.  Let me know if you have any input!  I'm not sure if I'll be talking about this with anyone during an interview.
+
+Thanks,
+Scott Luis
